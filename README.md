@@ -2,7 +2,7 @@
 | ----- | --------------------------------- |
 | Nama  | Muhammad Din Al Ayubi (312210293) |
 | Kelas | TI.22.A.SE.1                      |
-| Tugas | UTS Kecerdasan Buatan             |
+| Tugas | Kecerdasan Buatan                 |
 
 # Penjelasan Singkat
 
